@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<ioc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="8f554133-094f-4729-bdbe-985f460264eb" last-modified="2015-07-03T02:15:43" xmlns="http://schemas.mandiant.com/2010/ioc">
+  <short_description></short_description>
+  <authored_by>Automatically generated</authored_by>
+  <authored_date>2015-07-02T00:07:02</authored_date>
+  <links />
+  <definition>
+    <Indicator operator="OR" id="0b4ea7cb-0feb-42cc-84e2-f5c876e65da4">
+    </Indicator>
+  </definition>
+</ioc>
